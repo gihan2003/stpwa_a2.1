@@ -2,11 +2,9 @@
   "records": [
     {
       "version": "STPWhatsApp A2.1",
-      "code": 2009,
+      "code": 2006,
       "url": "http://bit.ly/DWHWhatsAppUpdate",
-      "changelog": " <fixed style="background-color: #ffe0e0; border-radius: 0.25rem; color: #da2626; font-family: Jost, Arial, sans-serif; font-size: 15px; font-weight: bold; padding: 0.2rem 0.4rem;">Fixed</fixed> Random crash in some chats/groups </div><div><br /></div><div>
-<fixed style="background-color: #ffe0e0; border-radius: 0.25rem; color: #da2626; font-family: Jost, Arial, sans-serif; font-size: 15px; font-weight: bold; padding: 0.2rem 0.4rem;">Fixed</fixed> Crash when opening FMMODS story </div><div><br /></div><div>
-<fixed style="background-color: #ffe0e0; border-radius: 0.25rem; color: #da2626; font-family: Jost, Arial, sans-serif; font-size: 15px; font-weight: bold; padding: 0.2rem 0.4rem;">Fixed</fixed> Other minor bug fixes and improvements </div><div><br /></div><div>"
+      "changelog": " Fixed contact name not showing when typing toast - Fixed Unable to open the app on some phones - Fixed Crash in Message Scheduler - Fixed...FULL CHANGELOG ON WEBSITE"
     }
   ]
 }
