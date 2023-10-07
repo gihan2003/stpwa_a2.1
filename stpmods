@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "STPWhatsApp A2.1",
-      "code": 2006,
+      "code": 2004,
       "url": "http://bit.ly/DWHWhatsAppUpdate",
       "changelog": " Fixed contact name not showing when typing toast - Fixed Unable to open the app on some phones - Fixed Crash in Message Scheduler - Fixed...FULL CHANGELOG ON WEBSITE"
     }
