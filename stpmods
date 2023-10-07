@@ -1,1 +1,12 @@
-{'ver1':'12', 'ver2':'20', 'ver3':'\n⚡Exclusive : Fixed all crashes \n🔺Added More Features\n Thanks for using AWT WhatsApp' , 'dli':'https://youtu.be/l6KssanEJRY'}
+{
+  "records": [
+    {
+      "version": "STPWhatsApp A2.1",
+      "code": 2009,
+      "url": "http://bit.ly/DWHWhatsAppUpdate",
+      "changelog": " <fixed style="background-color: #ffe0e0; border-radius: 0.25rem; color: #da2626; font-family: Jost, Arial, sans-serif; font-size: 15px; font-weight: bold; padding: 0.2rem 0.4rem;">Fixed</fixed> Random crash in some chats/groups </div><div><br /></div><div>
+<fixed style="background-color: #ffe0e0; border-radius: 0.25rem; color: #da2626; font-family: Jost, Arial, sans-serif; font-size: 15px; font-weight: bold; padding: 0.2rem 0.4rem;">Fixed</fixed> Crash when opening FMMODS story </div><div><br /></div><div>
+<fixed style="background-color: #ffe0e0; border-radius: 0.25rem; color: #da2626; font-family: Jost, Arial, sans-serif; font-size: 15px; font-weight: bold; padding: 0.2rem 0.4rem;">Fixed</fixed> Other minor bug fixes and improvements </div><div><br /></div><div>"
+    }
+  ]
+}
